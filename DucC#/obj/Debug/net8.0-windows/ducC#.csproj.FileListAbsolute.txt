@@ -1,0 +1,16 @@
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\bin\Debug\net8.0-windows\ducC#.exe
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\bin\Debug\net8.0-windows\ducC#.deps.json
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\bin\Debug\net8.0-windows\ducC#.runtimeconfig.json
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\bin\Debug\net8.0-windows\ducC#.dll
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\bin\Debug\net8.0-windows\ducC#.pdb
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC_.Form1.resources
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.csproj.GenerateResource.cache
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.AssemblyInfoInputs.cache
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.AssemblyInfo.cs
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.csproj.CoreCompileInputs.cache
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.dll
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\refint\ducC#.dll
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.pdb
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ducC#.genruntimeconfig.cache
+C:\Users\tranb\OneDrive\Documents\ducC#\ducC#\obj\Debug\net8.0-windows\ref\ducC#.dll

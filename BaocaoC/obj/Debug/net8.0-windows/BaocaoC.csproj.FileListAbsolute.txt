@@ -1,0 +1,16 @@
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\bin\Debug\net8.0-windows\BaocaoC.exe
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\bin\Debug\net8.0-windows\BaocaoC.deps.json
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\bin\Debug\net8.0-windows\BaocaoC.runtimeconfig.json
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\bin\Debug\net8.0-windows\BaocaoC.dll
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\bin\Debug\net8.0-windows\BaocaoC.pdb
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.Form1.resources
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.csproj.GenerateResource.cache
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.AssemblyInfoInputs.cache
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.AssemblyInfo.cs
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.csproj.CoreCompileInputs.cache
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.dll
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\refint\BaocaoC.dll
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.pdb
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\BaocaoC.genruntimeconfig.cache
+C:\Users\tranb\OneDrive\Documents\DucC#\BaocaoC\obj\Debug\net8.0-windows\ref\BaocaoC.dll
